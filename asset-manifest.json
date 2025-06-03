@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/krimerwool/Mind-Reader/static/css/main.f855e6bc.css",
-    "main.js": "/krimerwool/Mind-Reader/static/js/main.30e140f3.js",
-    "static/js/453.1354af9d.chunk.js": "/krimerwool/Mind-Reader/static/js/453.1354af9d.chunk.js",
-    "index.html": "/krimerwool/Mind-Reader/index.html",
-    "main.f855e6bc.css.map": "/krimerwool/Mind-Reader/static/css/main.f855e6bc.css.map",
-    "main.30e140f3.js.map": "/krimerwool/Mind-Reader/static/js/main.30e140f3.js.map",
-    "453.1354af9d.chunk.js.map": "/krimerwool/Mind-Reader/static/js/453.1354af9d.chunk.js.map"
+    "main.css": "/Mind-Reader/static/css/main.f855e6bc.css",
+    "main.js": "/Mind-Reader/static/js/main.e021edf1.js",
+    "static/js/453.1354af9d.chunk.js": "/Mind-Reader/static/js/453.1354af9d.chunk.js",
+    "index.html": "/Mind-Reader/index.html",
+    "main.f855e6bc.css.map": "/Mind-Reader/static/css/main.f855e6bc.css.map",
+    "main.e021edf1.js.map": "/Mind-Reader/static/js/main.e021edf1.js.map",
+    "453.1354af9d.chunk.js.map": "/Mind-Reader/static/js/453.1354af9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.30e140f3.js"
+    "static/js/main.e021edf1.js"
   ]
 }
