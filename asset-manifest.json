@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Mind-Reader/static/css/main.f855e6bc.css",
-    "main.js": "/Mind-Reader/static/js/main.e021edf1.js",
+    "main.css": "/Mind-Reader/static/css/main.88778e95.css",
+    "main.js": "/Mind-Reader/static/js/main.87ff28e1.js",
     "static/js/453.1354af9d.chunk.js": "/Mind-Reader/static/js/453.1354af9d.chunk.js",
+    "static/media/Nokia-Arabic-Ringstone-Sound-Effect.mp3": "/Mind-Reader/static/media/Nokia-Arabic-Ringstone-Sound-Effect.f8977a195a3d4e23973c.mp3",
     "index.html": "/Mind-Reader/index.html",
-    "main.f855e6bc.css.map": "/Mind-Reader/static/css/main.f855e6bc.css.map",
-    "main.e021edf1.js.map": "/Mind-Reader/static/js/main.e021edf1.js.map",
+    "main.88778e95.css.map": "/Mind-Reader/static/css/main.88778e95.css.map",
+    "main.87ff28e1.js.map": "/Mind-Reader/static/js/main.87ff28e1.js.map",
     "453.1354af9d.chunk.js.map": "/Mind-Reader/static/js/453.1354af9d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.e021edf1.js"
+    "static/css/main.88778e95.css",
+    "static/js/main.87ff28e1.js"
   ]
 }
